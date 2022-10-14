@@ -1,3 +1,5 @@
+from other1 import *
+
 print('Welcome to Online IDE!! Happy Coding :)')
 Replit_john56 = "sup"
 print(Replit_john56)
@@ -36,3 +38,4 @@ def tip_calc(princip, tipcent):
   
   #you could use the return keyword by itself for the function in some cases.  
 tip_calc(10.99,.15)
+
