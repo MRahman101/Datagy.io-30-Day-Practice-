@@ -1,8 +1,8 @@
-Link: https://datagy.io/python-functions/
+Link: 
+Installation and Setup
 
-
-Day 2: Functions in Python
+Day 3: Installation and Setup
 
 Find: 
-Building a Python Tip Calculator Function
+
 
