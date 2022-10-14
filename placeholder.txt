@@ -4,5 +4,7 @@ Installation and Setup
 Day 3: Installation and Setup
 
 Find: 
+How to Install Python on Windows
+
 
 
