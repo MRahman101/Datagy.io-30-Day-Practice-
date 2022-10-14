@@ -1,0 +1,9 @@
+Link: https://datagy.io/python-functions/
+
+
+
+Day 2: Functions in Python
+
+Find: 
+Building a Python Tip Calculator Function
+
