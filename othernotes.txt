@@ -1,7 +1,6 @@
 Link: https://datagy.io/python-functions/
 
 
-
 Day 2: Functions in Python
 
 Find: 

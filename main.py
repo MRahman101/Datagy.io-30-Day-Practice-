@@ -32,9 +32,7 @@ add_nums(35, 20)
 
 #Building A Python Top Calculator 
 def tip_calc(princip, tipcent):
-   tip = princip*tipcent
+  return princip*tipcent
   
-   print(tip)
-  
-   
+  #you could use the return keyword by itself for the function in some cases.  
 tip_calc(10.99,.15)
