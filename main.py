@@ -1,4 +1,4 @@
-from other1 import *
+
 
 print('Welcome to Online IDE!! Happy Coding :)')
 Replit_john56 = "sup"
