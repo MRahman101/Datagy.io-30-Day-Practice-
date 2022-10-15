@@ -1,10 +1,10 @@
 Link: 
-https://datagy.io/installing-python/
+https://datagy.io/python-conditionals-booleans/
 
-Day 3: Installation and Setup
+Day 4: Python Conditionals, Booleans, and Comparisons
 
 Find: 
-How to Install Python on Windows
+
 
 
 
