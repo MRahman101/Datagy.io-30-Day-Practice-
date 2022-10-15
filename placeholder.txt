@@ -1,5 +1,5 @@
 Link: 
-Installation and Setup
+https://datagy.io/installing-python/
 
 Day 3: Installation and Setup
 
