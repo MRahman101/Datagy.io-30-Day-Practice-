@@ -44,3 +44,7 @@ x = True
 print(type(x))
 #This will show bool value of a value:
 print(bool("Sup"))
+#The folllowing will use operators to determine if a paramenter in a function is met. 
+def can_drive(age):
+    return age >= 16
+print(can_drive(33))
