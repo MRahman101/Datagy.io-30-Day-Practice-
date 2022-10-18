@@ -39,3 +39,6 @@ def tip_calc(princip, tipcent):
   #you could use the return keyword by itself for the function in some cases.  
 tip_calc(10.99,.15)
 
+#Day 4:
+x = True
+print(type(x))
