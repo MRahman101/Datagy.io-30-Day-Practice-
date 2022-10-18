@@ -48,3 +48,11 @@ print(bool("Sup"))
 def can_drive(age):
     return age >= 16
 print(can_drive(33))
+#This compared letters toeach other by their ASCII values. 
+x = 'a' > 'A'
+print(x)
+#This will tell you the ASCII value of a String. 
+print(ord('b'))
+#operators can be combined with logical operators
+print(1 > 2 or 10 > 5)
+
