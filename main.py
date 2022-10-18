@@ -42,3 +42,5 @@ tip_calc(10.99,.15)
 #Day 4:
 x = True
 print(type(x))
+#This will show bool value of a value:
+print(bool("Sup"))

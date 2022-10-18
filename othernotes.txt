@@ -1,4 +1,7 @@
-Day 4:
+DAY 4:
 This is the subject about booleans. This data type has onlt "True" and "False".
+
+You can also see the type of boolean a value is. False is any value of 0 (or 0.0), a value set to 'False' or 'None', and an empty sequence object. 
+
 
 
