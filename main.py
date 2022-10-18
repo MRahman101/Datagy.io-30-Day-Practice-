@@ -55,4 +55,13 @@ print(x)
 print(ord('b'))
 #operators can be combined with logical operators
 print(1 > 2 or 10 > 5)
+#if and else can ba used to control flow of the program. 
+def legal_age(age)
+  if (x>18):
+    print("They are legal age ")
+  elif (x<18):
+    print("They are underaged")
+  else:
+     print("they are 18 and legal") 
 
+legal_age(45)

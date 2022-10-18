@@ -4,4 +4,8 @@ DAY 4:
 -Next, there are operators. These are the folowing: '=='(equal to), '<','>', '<=' (less than or equal to), '!=' (not equal to), '>='.
 -You can accurately compare ints and floats with '==' but not so much with something like '<'.
 -And, you can use the ord() funtion to see the ASCII value of any character. 
+
 -Operators can be used with logical operators. Such as 'and', 'not', 'or'.
+
+-There is 'if', 'else' and 'elif' (combination of 'else' and 'if') used to control flow in the program. 
+
