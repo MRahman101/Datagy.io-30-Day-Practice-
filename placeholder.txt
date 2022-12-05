@@ -1,5 +1,5 @@
 Link: 
-https://datagy.io/python-conditionals-booleans/
+https://datagy.io/python-conditionals-booleans/ 
 
 Day 4: Python Conditionals, Booleans, and Comparisons
 

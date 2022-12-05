@@ -9,3 +9,4 @@ DAY 4:
 
 -There is 'if', 'else' and 'elif' (combination of 'else' and 'if') used to control flow in the program. 
 
+"is" and "is not" are used to determine if two objects are allocated in the same space in memory. 

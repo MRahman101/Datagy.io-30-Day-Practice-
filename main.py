@@ -14,7 +14,7 @@ john()
 
 
 def color(x):
-  print("my favorite color is   " + x)
+  print("my favorite color is " + x)
 
 
 color("sunshine")
@@ -57,11 +57,23 @@ print(ord('b'))
 print(1 > 2 or 10 > 5)
 #if and else can ba used to control flow of the program. 
 def legal_age(age):
-  if (x>18):
+  if (age>18):
     print("They are   legal age ")
-  elif (x<18):
+  elif (age<18):
     print("They are underaged")
   else:
-     print("they are 18 and legal") 
+    print("they are 18 and legal") 
+  
+legal_age(45) 
+legal_age(18)
+legal_age(13)
 
-legal_age(45)
+def hurry_out_of_bed(overslept, workday):
+    if overslept and workday:
+        print('HURRY! Get out of bed!')
+    elif not overslept and not workday:
+        print("Keep sleeping!")
+    else:
+        print("You're ok!")
+
+hurry_out_of_bed(True, False)
