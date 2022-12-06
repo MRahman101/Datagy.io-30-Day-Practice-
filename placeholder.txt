@@ -4,7 +4,7 @@ https://datagy.io/python-conditionals-booleans/
 Day 4: Python Conditionals, Booleans, and Comparisons
 
 Find: 
-Python Conditional Flow: If-Else
+Let’s see how we can check where something is being stored in memory, using the 
 
 
 
