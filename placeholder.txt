@@ -4,7 +4,7 @@ https://datagy.io/python-for-loop/
 Day 5: Python For Loops and Iteration
 
 Find: 
-
+Oof! that’s more code than we were hoping. Imagine we wanted to change the greeting now – we’d have to make the change on every single line!
 
 
 
