@@ -85,10 +85,10 @@ print(id(x))
 print(id(y))
 #practice problem ahead
 def incr(sal):
-  if (sal<100000)
+  if (sal<100000):
     print("No raise!")
-  elif (100000<sal<150000)
+  elif (100000<sal<150000):
     print("You get a raise of 2.5K!")
-  else (sal>150000)
+  else:
     print("You get a $5K raise!")
 incr(50000)
