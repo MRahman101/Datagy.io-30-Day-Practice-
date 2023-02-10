@@ -1,10 +1,10 @@
 Link: 
-https://datagy.io/python-conditionals-booleans/ 
+https://datagy.io/python-for-loop/
 
-Day 4: Python Conditionals, Booleans, and Comparisons
+Day 5: Python For Loops and Iteration
 
 Find: 
-Let’s see how we can check where something is being stored in memory, using the 
+
 
 
 

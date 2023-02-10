@@ -11,3 +11,4 @@ DAY 4:
 
 -"is" and "is not" are used to determine if two objects are allocated in the same space in memory. "id" can be used to see where in the memory an item is stored. 
 
+-for loops are used to repeat an operation multiple times. 
