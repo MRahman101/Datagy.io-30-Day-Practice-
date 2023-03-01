@@ -93,4 +93,5 @@ def incr(sal):
     print("You get a $5K raise!")
 incr(500000)
 #for loop example below
-
+for name in range(3):# main syntax: for ___ in range()
+  print("john")
