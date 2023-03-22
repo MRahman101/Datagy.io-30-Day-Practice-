@@ -95,3 +95,13 @@ incr(500000)
 #for loop example below
 for name in range(3):# main syntax: for ___ in range()
   print("john")
+# this can be used to print items in an array
+namez = ['joe', 'sam', 'jake', 'sarah']
+for name in namez:
+  print(name) 
+  #you can also use if statements in a for loop
+for number in range(5): #this prints multiplies of 3. 
+    if number % 3 == 0:
+        print(number)
+    else:
+        pass
