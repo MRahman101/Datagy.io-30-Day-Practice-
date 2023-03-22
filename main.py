@@ -105,3 +105,9 @@ for number in range(5): #this prints multiplies of 3.
         print(number)
     else: #else is not needed for this for loop
         pass 
+# An example of a nested for loop
+for item in [1, 2]:
+    print(item)
+    for subitem in ['a']:
+        print(subitem)
+
