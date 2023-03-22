@@ -103,5 +103,5 @@ for name in namez:
 for number in range(5): #this prints multiplies of 3. 
     if number % 3 == 0:
         print(number)
-    else:
-        pass
+    else: #else is not needed for this for loop
+        pass 
